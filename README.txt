@@ -4,6 +4,7 @@ Requirements (install using anaconda prompt):
     numpy
     open_cv
     dlib
+    cmake
     face_recognition
     Pillow
 
